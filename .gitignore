@@ -1,0 +1,7 @@
+.qodo/
+__pycache__/
+venv/
+data/raw/
+*.gguf
+*.safetensors
+.env

@@ -1,0 +1,101 @@
+﻿id,state,query,crop,category,entity,notes
+1,Bihar,Aphid in mustard crop,mustard,insect_pest,aphid,
+2,Gujarat,Ask about water management in Bengal gram,chickpea,irrigation,none,"Pehle category 'nutrient' thi, sahi 'irrigation' hai"
+3,Maharashtra,FARMER ASKED ABOUT SPRAY FOR CONTROL VEGETATIVE GROWTH & PROMOTE REPRODUCTIVE GROWTH OF ONION CROP ?,onion,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+4,Gujarat,Farmer asked fungus control information of bengal gram crop,chickpea,disease,fungus,
+5,Bihar,Leaf Blight in Tomato,tomato,disease,leaf blight,
+6,Gujarat,Farmer asked pre fungus control information of cumin crop,cumin,disease,fungus,
+7,Bihar,Fall armyworm in maize,maize,insect_pest,fall armyworm,
+8,Bihar,Query related to control of Sigatoka leaf spot of banana,banana,disease,sigatoka,
+9,Maharashtra,FARMER ASKED ABOUT USE OF NUTRIENT APPLICATION FOR GROWTH & MORE BRANCHING IN SUGARCANE CROP ?,sugarcane,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+10,Bihar,Zinc dificiency in maize,maize,nutrient,zinc,
+11,Maharashtra,Farmer asked about spray on maize crop to develope quality of maize ?,maize,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+12,Gujarat,Farmer asked Heliothis (Larvae) Problem in bengal gram crop,chickpea,insect_pest,heliothis,
+13,Maharashtra,FARMER ASKED ABOUT USE OF NUTRIENT APPLICATION THROUGH SPRAY FOR INCREASING MORE BRANCHES IN ONION CROP ?,onion,nutrient,none,Sawaal me khaad ka naam nahi diya
+14,Gujarat,Farmer asked Nematode control information of tobacco crop,tobacco,insect_pest,nematode,"Pehle category 'nutrient' thi, sahi 'insect_pest' hai; Do category ho sakti thi, 'insect_pest' chuni"
+15,Maharashtra,FARMER ASKED ABOUT WILT ATTACK ON GRAM ?,chickpea,disease,wilt,
+16,Bihar,Panama wilt or Fusarium wilt Disease,banana,disease,panama wilt,
+17,Maharashtra,FARMER ASKED ABOUT ATTACK OF CATERPILLER ON GRAM CROP?,chickpea,insect_pest,caterpillar,
+18,Bihar,Aphid infestation in Cauliflower,cauliflower,insect_pest,aphid,
+19,Maharashtra,FARMER ASKED ABOUT FERTILIZER SPRAY ON GRAM CROP?,chickpea,nutrient,none,
+20,Bihar,Query related to use of nano urea and nano DAP in wheat,wheat,nutrient,nano urea,
+21,Maharashtra,Farmer asked query on Weather,unknown,weather,none,"Sawaal me crop ka naam nahi hai; Pehle category 'post_harvest' thi, sahi 'weather' hai"
+22,Bihar,Thrips Management in garlic,garlic,insect_pest,thrips,
+23,Gujarat,Farmer asked fungus control information of onion crop,onion,disease,fungus,"Pehle category 'nutrient' thi, sahi 'disease' hai"
+24,Bihar,Mango borer trunk,mango,insect_pest,borer,
+25,Maharashtra,farmer asked about nutrient for bajara crop ?,pearl millets,nutrient,none,
+26,Bihar,Better growth of Tomato,tomato,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+27,Bihar,Farmer asked about Nutrient management per year in mango tree,mango,nutrient,none,
+28,Gujarat,Farmer asked fungus in root control information of Bengal gram crop,chickpea,disease,fungus,
+29,Bihar,Fertilizer use in Mustard.....?,mustard,nutrient,none,
+30,Bihar,Control of fruit rot,brinjal,disease,fruit rot,
+31,Bihar,Weed Management in Maize,maize,cultivation,weed,"Pehle category 'nutrient' thi, sahi 'cultivation' hai"
+32,Gujarat,Farmer asked Heliothis (Larvae) Problem in chick pea crop,chickpea,insect_pest,heliothis,
+33,Bihar,irrigation management in wheat,wheat,irrigation,none,
+34,Bihar,Query related to pre emergence Weed management in onion,onion,cultivation,weed,
+35,Bihar,Control of fruit fly in Mango.,mango,insect_pest,fruit fly,
+36,Maharashtra,asked about control of white grub in groundnut,groundnut,insect_pest,white grub,
+37,Bihar,Application of humic acid 98%,unknown,nutrient,humic acid,Sawaal me crop ka naam nahi hai
+38,Gujarat,Farmer asked Sowing Time information of green Gram crop,mung bean,cultivation,none,"Pehle category 'variety_seed' thi, sahi 'cultivation' hai"
+39,Gujarat,Farmer asked Sowing Time information of sesame crop,sesame,cultivation,none,"Pehle crop 'mustard' tha, sawaal me 'sesame' hai; Pehle category 'variety_seed' thi, sahi 'cultivation' hai"
+40,Maharashtra,Control of rust disease in wheat crops,wheat,disease,rust,
+41,Gujarat,Farmer asked zink sulphate fertilizer dose in wheat,wheat,nutrient,zinc sulphate,
+42,Bihar,Aphid in potato crop,potato,insect_pest,aphid,
+43,Bihar,Query about control of wilt in Lentil.,lentil,disease,wilt,"Pehle crop 'chickpea' tha, sawaal me 'lentil' hai"
+44,Maharashtra,FARMER ASKED INFORMATION ABOUT GROUNDNUT CROP PRODUCTION AND THEIR CULTIVATION PRACTICES ?,groundnut,cultivation,none,"Pehle category 'variety_seed' thi, sahi 'cultivation' hai"
+45,Maharashtra,FARMER ASKED ABOUT FRUIT DROP IN JACKFRUIT CROP?,jackfruit,disease,fruit drop,"Do category ho sakti thi, 'disease' chuni"
+46,Bihar,Query related to Fertilizer dose in standing crop of maize,maize,nutrient,none,
+47,Gujarat,Ask about Anti-biotic in cumin,cumin,disease,antibiotic,"Do category ho sakti thi, 'disease' chuni"
+48,Gujarat,Farmer asked fungus control information of in cumin,cumin,disease,fungus,
+49,Gujarat,farmer ask about sulphur 40 ec use for ajwain crop,ajwain,disease,sulphur,"Do category ho sakti thi, 'disease' chuni"
+50,Bihar,Fruiting in tomato,tomato,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+51,Gujarat,Farmer asked Sowing Time information of bottlegaurd crop,bottle gourd,cultivation,none,"Pehle category 'variety_seed' thi, sahi 'cultivation' hai"
+52,Bihar,Prevention from aphid in Mustard,mustard,insect_pest,aphid,
+53,Maharashtra,FARMER ASKED ABOUT HOW TO CONTROL EARLY BLIGHTOF TOMATO CROP ?,tomato,disease,early blight,
+54,Bihar,Farmer asked query on Weather,unknown,weather,none,"Sawaal me crop ka naam nahi hai; Pehle category 'weather' thi, sahi 'weather' hai"
+55,Bihar,Give information about the problem related to the application of Kharif (Paddy) procurement (2025)...?,rice,market,none,"Paddy procurement (kharid) ka sawaal, isliye market"
+56,Gujarat,Farmer asked Aphid problem in crop tobbaco,tobacco,insect_pest,aphid,
+57,Maharashtra,FARMER ASKED QUERY ABOUT CONTROL OF INSECTICIDAL ATTACK ON SUGARCANE ?,sugarcane,insect_pest,none,"Pehle category 'disease' thi, sahi 'insect_pest' hai"
+58,Bihar,Use of Nano DAP in Maize,maize,nutrient,nano dap,
+59,Maharashtra,Shelu Market Committee The market price of cotton crop,cotton,market,none,
+60,Maharashtra,FARMER ASKED ABOUT CONTROL OF APHIDS ATTACK ON BHENDI CROP?,okra,insect_pest,aphid,
+61,Bihar,Nutrient management in Radish,radish,nutrient,none,
+62,Maharashtra,FARMER ASKED ABOUT WATER MANAGEMENT AFTER WEEDICIDE SPRAYING?,rice,irrigation,weedicide,"Do category ho sakti thi, 'irrigation' chuni"
+63,Maharashtra,FARMER ASKED ABOUT SPRAY FOR CONTROL OF BLIGHT ATTACK ON ONION CROP?,onion,disease,blight,
+64,Maharashtra,Farmer asked about Drought tolerance in the Chickpea crop?,chickpea,cultivation,drought,"Drought ka sawaal, koi category exact fit nahi, cultivation rakha"
+65,Bihar,Stem Borer Insect Control in Maize Crop ?,maize,insect_pest,stem borer,
+66,Bihar,Nutrient Management in Lentil and Lathyrus,lentil,nutrient,none,"Sawaal me do crops hain (lentil aur lathyrus), lentil rakha"
+67,Maharashtra,"FARMER ASKED ABOUT FERTILIZER SPRAY ON BENGAL GRAM FOR IMPROVE QUALTY OF PODS ,GRAINS ?",chickpea,nutrient,none,
+68,Maharashtra,FARMER ASKED ABOUT FERTILIZER DOSE FOR GROUNDNUT CROP?,groundnut,nutrient,none,
+69,Maharashtra,FARMER ASKED ABOUT MARKET RATE OF COTTON AND TUR ?,cotton,market,none,"Sawaal me do crops hain (cotton aur tur), cotton rakha"
+70,Gujarat,Ask about the yellowing problem in wheat,wheat,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+71,Gujarat,Ask about flower dropping problem in coriander,coriander,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+72,Maharashtra,FARMER ASKING ABOUT NUTRIENT MANAGEMENT FOR GROWTH OF MANGO ?,mango,nutrient,none,
+73,Maharashtra,FARMER ASKED ABOUT SPRAY FOR CONTROL OF FUNGAL ATTACK ON BENGAL GRAM ?,chickpea,disease,fungus,"Pehle category 'nutrient' thi, sahi 'disease' hai"
+74,Bihar,Farmer asked query on Weather,unknown,weather,none,"Sawaal me crop ka naam nahi hai; Pehle category 'irrigation' thi, sahi 'weather' hai"
+75,Bihar,Varity Of Cauliflower,cauliflower,variety_seed,none,"Pehle crop 'cabbage' tha, sawaal me 'cauliflower' hai"
+76,Gujarat,Farmer asked weed control in wheat crop,wheat,cultivation,weed,
+77,Maharashtra,FARMER ASKED ABOUT NUTRIENT MANAGEMENT IN TURMERIC CROP?,turmeric,nutrient,none,
+78,Maharashtra,FARMER ASKING ABOUT VARIETY OF SESAME CROP ?,sesame,variety_seed,none,
+79,Gujarat,Farmer asked Irrigation Management information of Wheat crop,wheat,irrigation,none,"Pehle category 'nutrient' thi, sahi 'irrigation' hai"
+80,Bihar,Fall Armywarm attack in Maize.,maize,insect_pest,fall armyworm,
+81,Maharashtra,FARMER ASKED ABOUT NUTRIENT MANAGEMENT IN PAPAYA CROP?,papaya,nutrient,none,
+82,Bihar,Boron deficiency in wheat crop,wheat,nutrient,boron,
+83,Bihar,Nutrient Management in Pointed Gourd.,pointed gourd,nutrient,none,
+84,Bihar,SOWING TIME OF STRAWBERRY,strawberry,cultivation,none,"Pehle category 'variety_seed' thi, sahi 'cultivation' hai"
+85,Gujarat,ASK ABOUT GUJARAT RAJYA BIJ NIGAM OFFICE CONTACT NUMBER,unknown,variety_seed,none,"Contact number ka sawaal, koi category exact fit nahi, variety_seed rakha"
+86,Bihar,NPk mixed With Fungicide Use In Potato.,potato,nutrient,npk,"NPK aur fungicide dono hain, nutrient chuna"
+87,Bihar,Nutrient management in Masur,lentil,nutrient,none,
+88,Maharashtra,Farmer asked query on Weather,unknown,weather,none,"Sawaal me crop ka naam nahi hai; Pehle category 'post_harvest' thi, sahi 'weather' hai"
+89,Maharashtra,FARMER ASKED ABOUT WHICH IS FERTILIZER BEST OF SUGARCANE CROP?,sugarcane,nutrient,none,
+90,Gujarat,Ask about the yellowing problem in brinjal crop,brinjal,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+91,Gujarat,Farmer asked seed rate and spacing information of green gram crop,mung bean,variety_seed,none,"Seed rate ka sawaal, isliye variety_seed"
+92,Gujarat,Farmer asked fungus control information of isabgul crop,isabgul,disease,fungus,"Pehle crop 'cumin' tha, sawaal me 'isabgul' hai"
+93,Maharashtra,Farmer asked query on Weather,unknown,weather,none,"Sawaal me crop ka naam nahi hai; Pehle category 'cultivation' thi, sahi 'weather' hai"
+94,Maharashtra,FARMER ASKED ABOUT PROPER TIMMING (DURATION) FOR IRRIGATION IN WHEAT CROP ?,wheat,irrigation,none,
+95,Bihar,Farmer asked query on Weather,unknown,weather,none,"Sawaal me crop ka naam nahi hai; Pehle category 'post_harvest' thi, sahi 'weather' hai"
+96,Maharashtra,FARMER ASKED ABOUT FRUIT FLY CONTROL IN MANGO CROP?,mango,insect_pest,fruit fly,
+97,Bihar,Over dose of insecticide,unknown,insect_pest,insecticide,Sawaal me crop ka naam nahi hai
+98,Bihar,Better fruiting of potato,potato,nutrient,none,"Do category ho sakti thi, 'nutrient' chuni"
+99,Maharashtra,Farmer asked about nutrient management in sugarcane ?,sugarcane,nutrient,none,
+100,Bihar,Sowing time of wheat,wheat,cultivation,none,"Pehle category 'variety_seed' thi, sahi 'cultivation' hai"
