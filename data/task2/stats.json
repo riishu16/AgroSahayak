@@ -1,1 +1,1 @@
-{"train_drop": {"no_translation": 0, "short_snippet": 12, "language_unknown": 4, "banned_chemical": 8}, "test_drop": {"no_translation": 0, "short_snippet": 1, "language_unknown": 0, "banned_chemical": 0}, "snippet_overlap_removed": 36}
+{"train_drop": {"no_translation": 0, "short_snippet": 12, "language_unknown": 4, "banned_chemical": 244}, "test_drop": {"no_translation": 0, "short_snippet": 1, "language_unknown": 0, "banned_chemical": 7}, "snippet_overlap_removed": 28}
