@@ -1,0 +1,47 @@
+# One name per line, lowercase. Lines starting with # are ignored.
+# Names below were read from published Indian banned-pesticide lists (CIB&RC / DPPQS / Lok Sabha / PIB annexures).
+# THE LIST IS NOT COMPLETE. Download the latest official list and add every missing name (Latin and Hindi/Gujarati/Marathi spellings).
+alachlor
+aldicarb
+aldrin
+benzene hexachloride
+bhc
+benomyl
+calcium cyanide
+carbaryl
+chlorbenzilate
+chlordane
+chlorofenvinphos
+trichlorfon
+trichloroacetic acid
+tridemorph
+methomyl
+phosphamidon
+carbofuran
+carbofuron
+captafol
+lindane
+ethyl parathion
+heptachlor
+maleic hydrazide
+menazon
+tetradifon
+toxaphene
+ethylene dibromide
+ethyl mercury chloride
+copper acetoarsenite
+nicotine sulfate
+dalapon
+ferbam
+# restricted / banned for specific crops (monocrotophos is banned on vegetables)
+monocrotophos
+# common native-script spellings (examples; add more)
+मोनोक्रोटोफॉस
+कार्बोफ्यूरान
+कार्बोफुरान
+लिंडेन
+एल्ड्रिन
+कार्बारिल
+મોનોક્રોટોફોસ
+કાર્બોફ્યુરાન
+मोनोक्रोटोफॉस
