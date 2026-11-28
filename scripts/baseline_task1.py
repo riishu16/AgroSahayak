@@ -65,10 +65,12 @@ def evaluate(rows, preds, name):
         "g_crop": [r["gold"]["crop"] for r in rows], "p_crop": [p["crop"] for p in preds],
         "g_ent": [r["gold"]["specific_entity"] for r in rows], "p_ent": [p["specific_entity"] for p in preds]})
     def row(label, d):
+        d2 = d[d.g_ent != "none"]
         return {"baseline": name, "group": label, "n": len(d),
                 "category_macro_F1": round(f1_score(d.g_cat, d.p_cat, average="macro", zero_division=0), 3),
                 "crop_accuracy": round((d.g_crop == d.p_crop).mean(), 3),
-                "entity_accuracy": round((d.g_ent == d.p_ent).mean(), 3)}
+                "entity_accuracy": round((d.g_ent == d.p_ent).mean(), 3),
+                "entity_acc_non_none": round((d2.g_ent == d2.p_ent).mean(), 3) if len(d2) else None}
     out = [row("ALL", df), row("native script", df[df.script == "native"]), row("Roman script", df[df.script == "roman"])]
     for (lang, script), d in df.groupby(["lang", "script"]):
         out.append(row(f"{lang} / {script}", d))
