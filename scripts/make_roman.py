@@ -21,7 +21,9 @@ def itrans_to_simple(w):
 
 def to_roman(text, script):
     s = transliterate(str(text), script, sanscript.ITRANS)
-    return " ".join(itrans_to_simple(w) for w in s.split()).lower()
+    s = " ".join(itrans_to_simple(w) for w in s.split()).lower()
+    s = s.replace("\u0949", "o").replace("\u0945", "e").replace("\u0ac9", "o").replace("\u0ac5", "e")
+    return re.sub(r"[^\x00-\x7f]", "", s)          # koi bhi bacha hua non-ASCII hatao
 
 def add_noise(text):
     words = text.split()
