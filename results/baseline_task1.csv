@@ -1,0 +1,21 @@
+baseline,group,n,category_macro_F1,crop_accuracy,entity_accuracy
+Keyword rules,ALL,700,0.256,0.229,0.57
+Keyword rules,native script,400,0.363,0.288,0.608
+Keyword rules,Roman script,300,0.087,0.15,0.52
+Keyword rules,en / native,100,0.879,0.88,0.93
+Keyword rules,gu / native,100,0.062,0.09,0.5
+Keyword rules,gu / roman,100,0.074,0.18,0.5
+Keyword rules,hi / native,100,0.062,0.09,0.5
+Keyword rules,hi / roman,100,0.099,0.16,0.53
+Keyword rules,mr / native,100,0.062,0.09,0.5
+Keyword rules,mr / roman,100,0.086,0.11,0.53
+Retrieval (nearest train example),ALL,700,0.548,0.449,0.75
+Retrieval (nearest train example),native script,400,0.546,0.472,0.765
+Retrieval (nearest train example),Roman script,300,0.551,0.417,0.73
+Retrieval (nearest train example),en / native,100,0.648,0.55,0.7
+Retrieval (nearest train example),gu / native,100,0.667,0.42,0.79
+Retrieval (nearest train example),gu / roman,100,0.581,0.45,0.76
+Retrieval (nearest train example),hi / native,100,0.531,0.56,0.79
+Retrieval (nearest train example),hi / roman,100,0.637,0.41,0.74
+Retrieval (nearest train example),mr / native,100,0.602,0.36,0.78
+Retrieval (nearest train example),mr / roman,100,0.613,0.39,0.69
